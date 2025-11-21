@@ -1,16 +1,32 @@
-## Hi there 👋
+<h2 align="center">✨ Xin chào, mình là Vy ✨</h2>
 
-<!--
-**VOTHITHAOVY/VOTHITHAOVY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.imgur.com/kj7hM1L.gif" width="200"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐱 Vài điều về mình
+- 💻 Sinh viên IT, thích code Java & Python  
+- 🌱 Đang học thuật toán & backend  
+- 😸 Thích mèo và thích ăn vặt  
+- 🎯 Mục tiêu: trở thành developer giỏi  
+
+---
+
+### 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VOTHITHAOVY&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+### 🧩 Kỹ năng
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github"/>
+</p>
+
+---
+
+### 💬 Liên hệ
+- 📧 Email: (thêm email của bạn)
