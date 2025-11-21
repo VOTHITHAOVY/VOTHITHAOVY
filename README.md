@@ -2,21 +2,21 @@
 
 <div align="center">
   
-### ✨ Backend Developer | Java Enthusiast | Spring Boot Lover ✨
+### Backend Developer | Java Spring Boot | Full-Stack Learning
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thaovy.profile)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vothithaovy.profile)
+
 </div>
 
 ---
 
-## 🎓 Về Tôi
+## 🎓 Giới Thiệu
 
 ```
-👩‍🎓 Sinh viên         → Đại Học Sài Gòn (SGU) - K2006
-💻 Specialty         → Backend Development
-⚙️ Main Stack        → Java | Spring Boot | Docker
-🎯 Passion           → Building scalable solutions
-🌸 Vibe              → Coffee ☕ + Code 💻 + Creativity 🎨
+👩‍🎓 Đại Học Sài Gòn (SGU) - K2006
+💻 Focus: Backend Development with Java & Spring Boot
+🔨 Passionate: Building scalable APIs & microservices
+📚 Currently: Learning & Building Projects
 ```
 
 ---
@@ -25,100 +25,78 @@
 
 <div align="center">
 
-### Languages & Frameworks
+### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-### Databases & Tools
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### API & Security
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6C37?style=for-the-badge&logo=circleci&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Các Dự Án Nổi Bật
+## 🚀 Dự Án Đang Làm
 
-### 🎀 [Tên Project 1]
-**Spring Boot REST API** với Docker containerization
-- Xây dựng API RESTful với Spring Boot
-- Database: MySQL/PostgreSQL
-- Docker compose setup
+### 🏥 Hospital Management System
+**Status**: 🔄 In Progress  
+**Description**: Hệ thống quản lý bệnh viện toàn diện  
+**Tech Stack**: 
+- Backend: Java, Spring Boot, RESTful API
+- Database: MySQL / PostgreSQL
+- Frontend: HTML, CSS, JavaScript
+- DevOps: Docker, Git
 
-### 💖 [Tên Project 2]
-**Microservices Architecture**
-- Multiple Spring Boot services
-- Docker orchestration
-- Database migration scripts
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaovy&show_icons=true&theme=rose&bg_color=fff0f6&title_color=ff69b4&icon_color=ff69b4)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaovy&layout=compact&theme=rose&bg_color=fff0f6&title_color=ff69b4)
-
-</div>
+📁 [Repository Link]
 
 ---
 
-## 🎯 Hiện Tại Đang Học
-
-- 📚 **Deepening**: Spring Boot Advanced Features, Microservices Architecture
-- 🐳 **Docker**: Container optimization & Kubernetes basics
-- 🔐 **Security**: Spring Security & JWT Authentication
-- 🚀 **CI/CD**: Deployment pipelines & DevOps
-
----
-
-## 💬 Kết Nối Với Tôi
+## 💬 Liên Hệ
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vothithaovy06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vothithaovy)
 
 </div>
 
 ---
 
-## 📈 Coding Journey
+## 📈 Learning Journey
 
 ```
-2024-2025: Chuyên sâu Backend Development
-   └─ Spring Boot mastery 🎯
-   └─ Docker & containerization 🐳
-   └─ Building production-ready APIs 🚀
+🎯 Hiện tại tập trung:
+   ✓ Java & Spring Boot mastery
+   ✓ RESTful API Design & Best Practices
+   ✓ Database Design (SQL & NoSQL)
+   ✓ Docker Containerization
+   ✓ CI/CD Pipelines
+   ✓ Authentication & Security (JWT)
 ```
 
 ---
 
 <div align="center">
 
-### 🌸 _"Code is poetry written in logic"_ 🌸
-
-✨ **Luôn sẵn sàng học hỏi và cộng tác!** ✨
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Nếu bạn thích các project của tôi, hãy cho một ⭐ nhé! 🌟
-
-![Pink Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+💻 **Always learning, always building!**
 
 </div>
