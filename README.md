@@ -54,6 +54,12 @@ Email Me 👉 ✉️ *vothithaovy06@gmail.com* for Collaboration/Project or Anyt
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
 *Made with ❤️ by Thao Vy*
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+
+---
