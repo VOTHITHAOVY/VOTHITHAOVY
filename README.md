@@ -10,9 +10,7 @@
 
 ---
 
-<table>
-  <tr>
-    <td style="background-color: #ffe6f0; padding: 20px; border-radius: 10px; border-left: 4px solid #ff69b4;">
+
       
 ## 🎓 Giới Thiệu
 
@@ -23,11 +21,6 @@
  Mindset: Always Learning, Always Growing
 ```
 
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack - Công Nghệ Của Tôi
 
