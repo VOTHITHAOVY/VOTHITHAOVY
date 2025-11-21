@@ -1,102 +1,148 @@
-# 👋 Xin chào! Tôi là Võ Thị Thảo Vy
+# 🌸 Xin chào! Tôi là Võ Thị Thảo Vy 🌸
 
 <div align="center">
   
-### Backend Developer | Java Spring Boot | Full-Stack Learning
+<table>
+  <tr>
+    <td style="background-color: #fff0f6; padding: 30px 20px; border-radius: 15px; border: 2px solid #ffb6d9;">
+      <h2 style="color: #ff69b4; margin: 0;">💝 Backend Developer | Java Spring Boot 💝</h2>
+      <p style="color: #ff1493; font-size: 16px; margin: 10px 0;">Đại Học Sài Gòn (SGU) - K2006</p>
+    </td>
+  </tr>
+</table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vothithaovy.profile)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vothithaovy.profile&left_color=FFB6D9&right_color=FF69B4)
 
 </div>
 
 ---
 
+<table>
+  <tr>
+    <td style="background-color: #ffe6f0; padding: 20px; border-radius: 10px; border-left: 4px solid #ff69b4;">
+      
 ## 🎓 Giới Thiệu
 
 ```
-👩‍🎓 Đại Học Sài Gòn (SGU) - K2006
-💻 Focus: Backend Development with Java & Spring Boot
-🔨 Passionate: Building scalable APIs & microservices
-📚 Currently: Learning & Building Projects
+👩‍💻 Sinh viên: Đại Học Sài Gòn (SGU) - K2006
+💼 Chuyên môn: Backend Development
+🔥 Passion: Java, Spring Boot & APIs
+📚 Mindset: Always Learning, Always Growing
 ```
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack - Công Nghệ Của Tôi
 
 <div align="center">
 
-### Backend
+### 💗 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-FF69B4?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=fff0f6)
+![Maven](https://img.shields.io/badge/Maven-FFB6D9?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 💕 Databases
+![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=fff0f6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFB6D9?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-FF1493?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=fff0f6)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💖 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white&labelColor=fff0f6)
+![CSS3](https://img.shields.io/badge/CSS3-FFB6D9?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white&labelColor=fff0f6)
 
-### API & Security
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+### 🔐 API & Security
+![REST API](https://img.shields.io/badge/REST%20API-FF69B4?style=for-the-badge&logo=postman&logoColor=white&labelColor=fff0f6)
+![JWT](https://img.shields.io/badge/JWT-FFB6D9?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6C37?style=for-the-badge&logo=circleci&logoColor=white)
+### 🐳 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-FF69B4?style=for-the-badge&logo=docker&logoColor=white&labelColor=fff0f6)
+![Git](https://img.shields.io/badge/Git-FFB6D9?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white&labelColor=fff0f6)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF69B4?style=for-the-badge&logo=circleci&logoColor=white)
 
 </div>
 
 ---
 
+<table>
+  <tr>
+    <td style="background-color: #ffe6f0; padding: 20px; border-radius: 10px; border-left: 4px solid #ff69b4;">
+      
 ## 🚀 Dự Án Đang Làm
 
 ### 🏥 Hospital Management System
 **Status**: 🔄 In Progress  
-**Description**: Hệ thống quản lý bệnh viện toàn diện  
+**Mô tả**: Hệ thống quản lý bệnh viện toàn diện - Quản lý bệnh nhân, lịch hẹn, thuốc & nhân viên  
 **Tech Stack**: 
-- Backend: Java, Spring Boot, RESTful API
-- Database: MySQL / PostgreSQL
-- Frontend: HTML, CSS, JavaScript
-- DevOps: Docker, Git
+- ✅ Backend: Java, Spring Boot, RESTful API
+- ✅ Database: MySQL / PostgreSQL
+- ✅ Frontend: HTML, CSS, JavaScript
+- ✅ DevOps: Docker, Git, Maven
 
-📁 [Repository Link]
+📁 **[Repository Link]**
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💬 Liên Hệ
-
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vothithaovy06@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vothithaovy)
+## 💬 Liên Hệ & Kết Nối
+
+[![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vothithaovy06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FFB6D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vothithaovy)
 
 </div>
 
 ---
 
-## 📈 Learning Journey
+<table>
+  <tr>
+    <td style="background-color: #fff0f6; padding: 20px; border-radius: 10px; border: 2px solid #ffb6d9; text-align: center;">
+      
+## 📈 Hành Trình Học Tập
 
 ```
 🎯 Hiện tại tập trung:
-   ✓ Java & Spring Boot mastery
-   ✓ RESTful API Design & Best Practices
-   ✓ Database Design (SQL & NoSQL)
-   ✓ Docker Containerization
-   ✓ CI/CD Pipelines
-   ✓ Authentication & Security (JWT)
+   ✨ Java & Spring Boot Mastery
+   ✨ RESTful API Design & Best Practices  
+   ✨ Database Design (SQL & NoSQL)
+   ✨ Docker Containerization
+   ✨ CI/CD Pipelines
+   ✨ Authentication & Security (JWT)
 ```
+
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
-💻 **Always learning, always building!**
+<table>
+  <tr>
+    <td style="background-color: #ff69b4; padding: 20px; border-radius: 10px; width: 100%;">
+      <h3 style="color: white; margin: 0;">💻 Always Learning, Always Building! 💻</h3>
+      <p style="color: white; margin: 10px 0;">✨ Code with passion, Create with love ✨</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Nếu bạn thích các project của mình, hãy cho một ⭐ nhé!
 
 </div>
