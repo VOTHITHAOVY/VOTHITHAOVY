@@ -40,18 +40,6 @@ Email Me 👉 ✉️ *vothithaovy06@gmail.com* for Collaboration/Project or Anyt
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VOTHITHAOVY&theme=dark&hide_border=false)
 
----
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vothithaovy)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vothithaovy)  
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 *Made with ❤️ by Thao Vy*
