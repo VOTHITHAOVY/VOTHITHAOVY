@@ -2,14 +2,7 @@
 
 <div align="center">
   
-<table>
-  <tr>
-    <td style="background-color: #fff0f6; padding: 30px 20px; border-radius: 15px; border: 2px solid #ffb6d9;">
-      <h2 style="color: #ff69b4; margin: 0;">💝 Backend Developer | Java Spring Boot 💝</h2>
-      <p style="color: #ff1493; font-size: 16px; margin: 10px 0;">Đại Học Sài Gòn (SGU) - K2006</p>
-    </td>
-  </tr>
-</table>
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vothithaovy.profile&left_color=FFB6D9&right_color=FF69B4)
 
@@ -24,10 +17,10 @@
 ## 🎓 Giới Thiệu
 
 ```
-👩‍💻 Sinh viên: Đại Học Sài Gòn (SGU) - K2006
-💼 Chuyên môn: Backend Development
-🔥 Passion: Java, Spring Boot & APIs
-📚 Mindset: Always Learning, Always Growing
+ Sinh viên: Đại Học Sài Gòn (SGU) - K2006
+ Chuyên môn: Backend Development
+ Passion: Java, Spring Boot & APIs
+ Mindset: Always Learning, Always Growing
 ```
 
     </td>
@@ -80,12 +73,12 @@
 **Status**: 🔄 In Progress  
 **Mô tả**: Hệ thống quản lý bệnh viện toàn diện - Quản lý bệnh nhân, lịch hẹn, thuốc & nhân viên  
 **Tech Stack**: 
-- ✅ Backend: Java, Spring Boot, RESTful API
-- ✅ Database: MySQL / PostgreSQL
-- ✅ Frontend: HTML, CSS, JavaScript
-- ✅ DevOps: Docker, Git, Maven
+-  Backend: Java, Spring Boot, RESTful API
+-  Database: MySQL / PostgreSQL
+-  Frontend: HTML, CSS, JavaScript
+-  DevOps: Docker, Git, Maven
 
-📁 **[Repository Link]**
+ **https://github.com/VOTHITHAOVY/Hospital-Management**
 
     </td>
   </tr>
