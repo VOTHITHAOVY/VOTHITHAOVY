@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ *vothithaovy06@gmail.com* for Collaboration/Project or Anything Else.  
 
-- 🎓 University of Saigon | 🎂 Born: 2006
+- 🎓 University of SGU | 🎂 Born: 2006
 
 - 🔭 I’m currently working on: Learning and building Back-end projects with Spring Boot
 - 🌱 I’m currently learning: Java, Spring Boot, MySQL, Redis, Docker
